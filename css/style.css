@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    padding: 10px;
+    
+}
+.blanco{
+    background-color: white;
+
+}
+.rojo{
+    background-color: red;
+
+}
+.primercaja{
+    border: 2px orange solid;
+    padding: 5px;
+    margin-top: 10px;
+
+}
+.segundacaja{
+    border: 2px black solid;
+    padding: 5px;
+    margin-top: 10px;
+    
+}
+.botella{
+    background-color: red;
+
+}
+.nombre{
+    font-size: 40px;
+    text-align: left;
+
+}
+.lasimagenes{
+    text-align:center ;
+    border: 3px pink solid;
+    
+}
+.redes{
+    border: 2px black solid;
+    
+    
+
+}
+
